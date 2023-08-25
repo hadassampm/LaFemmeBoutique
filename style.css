@@ -623,7 +623,7 @@ text-align: center;
 
   .left-div3,
   .middle-div3,
-  .right-div {
+  .right-div3 {
       width: calc(100% - 20px); /* Coloca 1 coluna por linha */
   }
 
